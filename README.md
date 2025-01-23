@@ -25,3 +25,5 @@ This project involves controlling a system consisting of four DC motors using th
 2. Software Setup:
    - Install the necessary libraries for motor control on the microcontroller.
    - Upload the provided code to the microcontroller.
+link to tinkercad
+https://www.tinkercad.com/things/56BO4T5auY6-fabulous-gaaris?sharecode=ddiel2yE28hn7DWEhLL2nIIkrY-635_3cn-8EkW68kw
